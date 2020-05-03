@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="900dp"
+        android:height="450dp"
+        android:viewportWidth="900.0"
+        android:viewportHeight="450.0">
+    <path
+        android:pathData="M0,0h900v450H0z"
+        android:fillColor="#009543"/>
+    <path
+        android:pathData="M0,0h900v300H0z"
+        android:fillColor="#ed4135"/>
+    <path
+        android:pathData="M0,0h900v150H0z"
+        android:fillColor="#0035ad"/>
+    <path
+        android:pathData="M300,225m-147.5,0a147.5,147.5 0,1 1,295 0a147.5,147.5 0,1 1,-295 0"
+        android:strokeColor="#000"
+        android:fillColor="#fae600"
+        android:strokeWidth="5"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M275,247h50m-50,-37h50M300,78v252"
+        android:strokeColor="#000"
+        android:strokeWidth="6"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M240.6,360.4c60.2,24.6 116.6,1.5 116.6,1.5s-21.3,-23 -32.2,-32c-10.7,-8.8 -42,-8.4 -52.7,0 -8.9,7 -34.5,33 -31.7,30.5z"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M283.5,293a16.5,24 0,1 0,33 0a16.5,24 0,1 0,-33 0z"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M280,228.5a20,12.7 0,1 0,40 0a20,12.7 0,1 0,-40 0z"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M300,170m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M324,95.5c-0,-0 1.7,2.9 -1.9,9.4 -17.4,31.4 -34.9,32.1 -38.2,34.8 -3.7,3 -5.2,2.8 -5.2,2.8 0.3,-2.7 0.5,-13.7 0.7,-14.7 2.6,-14.7 24.8,-14.5 42.1,-29.5 2.7,-2.3 2.5,-2.8 2.5,-2.8z"/>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M265.5,163s3.9,11.2 4.5,22.5c0.9,18 18.2,18.5 30,18.5v-10c-8.9,0 -16.6,-1.3 -23,-14.5 -3.2,-6.5 -11.5,-16.5 -11.5,-16.5zM265,308s6.3,-7.8 13.7,-26C282.5,272.5 291.6,267 300,267v-14c-19,0 -28.1,7.1 -29.1,17.4C268.9,291.5 265,308 265,308z"/>
+</vector>
